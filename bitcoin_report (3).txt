@@ -1,0 +1,32 @@
+
+╔══════════════════════════════════════════════════════════╗
+║        BITCOIN MARKET TREND ANALYSIS — FINAL REPORT     ║
+║                  Kritika Srivastava  |  2024             ║
+╠══════════════════════════════════════════════════════════╣
+║  DATASET                                                 ║
+║   Total rows          :      560,664                       ║
+║   Date range          : 2019-05-22  →  2024-05-20    ║
+║   Null values (final) :          471                       ║
+╠══════════════════════════════════════════════════════════╣
+║  PRICE STATISTICS                                        ║
+║   Minimum Close       : $    2,946.67                   ║
+║   Maximum Close       : $   82,095.17                  ║
+║   Mean Close          : $   24,145.55                  ║
+║   Total Return (5Y)   :       36.87%                   ║
+╠══════════════════════════════════════════════════════════╣
+║  RETURN STATISTICS (Daily)                               ║
+║   Mean Daily Return   :      0.1161%                   ║
+║   Return Std Dev      :      4.4550%                   ║
+║   Best Single Day     :       19.34%                   ║
+║   Worst Single Day    :      -15.85%                   ║
+║   Sharpe Ratio (est.) :       0.414                    ║
+╠══════════════════════════════════════════════════════════╣
+║  VOLATILITY                                              ║
+║   Avg Ann. Volatility :        84.0%                   ║
+║   Max Drawdown        :       -89.6%                   ║
+╠══════════════════════════════════════════════════════════╣
+║  TREND BREAKDOWN                                         ║
+║   Bullish periods     :        9,524                       ║
+║   Bearish periods     :        9,354                       ║
+║   Sideways periods    :      541,786                       ║
+╚══════════════════════════════════════════════════════════╝
